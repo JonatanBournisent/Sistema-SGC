@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/21 17:28:58.000.382,=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/03/21 17:28:58.000.460,=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/05/01 11:26:21.000.816,=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/05/01 11:26:21.000.789,=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/05/02 22:18:57.000.846,C:\Users\Jonatan\Desktop\sgc.h=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/05/02 22:18:57.000.846,C:\Users\Jonatan\Desktop\sgc.dfm=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/05/02 22:18:57.000.846,C:\Users\Jonatan\Desktop\sgc.cpp=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/05/02 22:19:11.000.816,C:\Users\Jonatan\Desktop\psgc.h=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/05/02 22:19:39.000.087,C:\Users\Jonatan\Desktop\proyectosgc.cbproj=C:\Users\Jonatan\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2018/05/05 13:38:17.000.836,=C:\Users\Jonatan\Desktop\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2018/05/05 13:39:14.000.939,C:\Users\Jonatan\Desktop\Proyecto SGC\Unit2.dfm=C:\Users\Jonatan\Desktop\Proyecto SGC\fCargarCompras.dfm</Transaction>
+    <Transaction>2018/05/05 13:39:14.000.939,C:\Users\Jonatan\Desktop\Proyecto SGC\Unit2.cpp=C:\Users\Jonatan\Desktop\Proyecto SGC\fCargarCompras.cpp</Transaction>
+    <Transaction>2018/05/05 13:39:14.000.939,C:\Users\Jonatan\Desktop\Proyecto SGC\Unit2.h=C:\Users\Jonatan\Desktop\Proyecto SGC\fCargarCompras.h</Transaction>
+    <Transaction>2018/12/17 09:48:09.000.238,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2018/12/17 09:48:27.000.223,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fAgregarContribuyente.h</Transaction>
+    <Transaction>2018/12/17 09:48:27.000.223,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fAgregarContribuyente.cpp</Transaction>
+    <Transaction>2018/12/17 09:48:27.000.223,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fAgregarContribuyente.dfm</Transaction>
+    <Transaction>2018/12/18 18:53:18.000.328,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2018/12/18 18:55:21.000.793,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fOpciones.cpp</Transaction>
+    <Transaction>2018/12/18 18:55:21.000.793,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fOpciones.dfm</Transaction>
+    <Transaction>2018/12/18 18:55:21.000.793,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fOpciones.h</Transaction>
+    <Transaction>2018/12/18 21:58:07.000.750,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2018/12/18 21:58:39.000.659,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fCargarVentas.dfm</Transaction>
+    <Transaction>2018/12/18 21:58:39.000.659,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fCargarVentas.h</Transaction>
+    <Transaction>2018/12/18 21:58:39.000.659,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fCargarVentas.cpp</Transaction>
+    <Transaction>2018/12/22 01:59:48.000.690,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2018/12/22 02:00:18.000.361,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fAsociaciones.dfm</Transaction>
+    <Transaction>2018/12/22 02:00:18.000.361,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fAsociaciones.cpp</Transaction>
+    <Transaction>2018/12/22 02:00:18.000.361,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fAsociaciones.h</Transaction>
+    <Transaction>2018/12/27 18:34:59.000.713,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2018/12/27 18:35:33.000.128,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fCargarZeta.cpp</Transaction>
+    <Transaction>2018/12/27 18:35:33.000.128,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fCargarZeta.dfm</Transaction>
+    <Transaction>2018/12/27 18:35:33.000.128,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fCargarZeta.h</Transaction>
+    <Transaction>2018/12/30 17:43:29.000.957,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2018/12/30 17:43:52.000.934,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fReportes.cpp</Transaction>
+    <Transaction>2018/12/30 17:43:52.000.934,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fReportes.dfm</Transaction>
+    <Transaction>2018/12/30 17:43:52.000.934,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fReportes.h</Transaction>
+    <Transaction>2019/01/25 13:25:12.000.256,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fCargarZeta.cpp=</Transaction>
+    <Transaction>2019/05/27 20:23:55.000.148,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2019/05/27 20:24:35.000.397,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\uEliminarComprobante.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm</Transaction>
+    <Transaction>2019/05/27 20:24:35.000.397,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\uEliminarComprobante.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2019/05/27 20:24:35.000.397,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\uEliminarComprobante.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h</Transaction>
+    <Transaction>2019/06/15 12:35:23.000.164,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2019/06/15 12:35:44.000.275,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fModificarCuentas.h</Transaction>
+    <Transaction>2019/06/15 12:35:44.000.275,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fModificarCuentas.cpp</Transaction>
+    <Transaction>2019/06/15 12:35:44.000.275,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\fModificarCuentas.dfm</Transaction>
+    <Transaction>2019/06/20 18:56:29.000.764,=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp</Transaction>
+    <Transaction>2019/06/20 18:57:10.000.416,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.cpp=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\uMostrarComprobantes.cpp</Transaction>
+    <Transaction>2019/06/20 18:57:10.000.416,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.h=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\uMostrarComprobantes.h</Transaction>
+    <Transaction>2019/06/20 18:57:10.000.416,D:\Documentos\Proyectos Builder XE8\Proyecto SGC\Unit2.dfm=D:\Documentos\Proyectos Builder XE8\Proyecto SGC\uMostrarComprobantes.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
